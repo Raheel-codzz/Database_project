@@ -1,1 +1,1 @@
-Mal of lahore management system using SQL
+Mal of lahore management system using SQL and JAVA 

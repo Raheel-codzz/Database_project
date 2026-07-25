@@ -1,1 +1,1 @@
-# Database_project
+Mal of lahore management system using SQL
